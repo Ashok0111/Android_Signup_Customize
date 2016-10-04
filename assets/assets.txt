@@ -1,0 +1,1 @@
+creae an new folder and rename as assest in the android folder and copy past the .tff inside the folder this is the font style have been used
